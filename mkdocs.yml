@@ -1,0 +1,10 @@
+site_name: My Docs
+docs_dir: docs_src
+nav:
+  - Inicio: index.md
+  - Manual de Usuario: Manual_de_Usuario.md
+  - Guía de Referencia: Guia_de_Referencia.md
+  - Guía de Instalación: Guia_de_Instalacion.md
+
+theme:
+  name: 'material'
