@@ -6,5 +6,8 @@ nav:
   - Guía de Referencia: Guia_de_Referencia.md
   - Guía de Instalación: Guia_de_Instalacion.md
 
+plugins:
+  - pdf-export
+
 theme:
   name: 'material'
